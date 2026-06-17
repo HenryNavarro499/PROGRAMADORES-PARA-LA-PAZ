@@ -1,0 +1,6 @@
+Es importante porque así pueden responder a necesidades reales de su entorno. El uso de tecnologías
+abiertas como Node.js permite crear aplicaciones de manera accesible, flexible y colaborativa. Además, las
+comunidades no dependen completamente de grandes empresas para desarrollar soluciones digitales. Esto
+fortalece la autonomía tecnológica y promueve la participación ciudadana en la innovación. Las tecnologías
+abiertas también facilitan el aprendizaje colectivo, ya que cualquier persona puede estudiar, modificar y mejorar
+el código. De esta manera, se fomenta la creatividad y el trabajo en equipo.
