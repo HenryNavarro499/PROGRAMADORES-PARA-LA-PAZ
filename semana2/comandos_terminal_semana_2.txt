@@ -1,0 +1,10 @@
+cd Documents
+cd PROGRAMADORES PARA LA PAZ
+mkdir semana_2
+cd semana_2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+   
+
+
