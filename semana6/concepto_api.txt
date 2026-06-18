@@ -1,0 +1,14 @@
+app.post('/reporte', (req, res) => { 
+const mensaje = req.body.mensaje; res.json({
+ estado: "Reporte recibido", mensaje: mensaje });
+ });
+
+Esta ruta ya que es de método POST permite a los usuarios enviar información como actor clienta al servidor.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Esta ruta podría utilizarse para que los ciudadanos envíen reportes o novedades a la comunidad, por ejemplo:
+
+Reportar daños en calles.
+Informar problemas de seguridad.
+Avisar sobre fallas de servicios públicos.
+Enviar sugerencias o mensajes comunitarios.

@@ -1,0 +1,20 @@
+app.get('/', (req, res) => {
+  res.send('Servidor activo');
+});
+Ruta principal del sistema por la cual se va a ejecutar el servidor
+una ves el servidor inicie este retronar un menaje de "Servidor activo", este mensaje hace las veces 
+de bandera para indicar que el servidor esta corriendo.
+
+app.get('/saludo', (req, res) => {
+  res.send('Hola comunidad');
+});
+Esta ruta va al apartado de saludo y en el cual tiene una bandera o mensaje de "hola comunidad"
+cuando se visita la pagina por dicha ruta
+
+app.get('/mensaje/:nombre', (req, res) => {
+  const nombre = req.params.nombre;
+  res.send('Hola ' + nombre);
+});
+
+En esta ruta lo que se hace el servidor es guardar el valor que entra o se manda por le parámetro ":nombre",
+esto para posterior mente generar un mensaje personalizado con el nombre que ingreso por la ruta
