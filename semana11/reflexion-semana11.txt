@@ -1,0 +1,6 @@
+Una plataforma de participación ciudadana necesita una base de datos para almacenar y consultar de forma estructurada las
+propuestas y apoyos de la comunidad, evitando que la información se pierda. Asimismo, requiere autenticación de usuarios para identificar a
+los participantes y controlar el acceso a funciones críticas, lo que previene fraudes o votos duplicados de perfiles falsos.
+Por último, la protección de información sensible es obligatoria para resguardar la privacidad frente a accesos indebidos o filtraciones
+maliciosas de datos personales. Restringir la exposición de documentos, direcciones o contraseñas mitiga riesgos de seguridad y,
+sobre todo, construye la confianza necesaria para que los ciudadanos colaboren activamente en un entorno digital totalmente legítimo y seguro.
