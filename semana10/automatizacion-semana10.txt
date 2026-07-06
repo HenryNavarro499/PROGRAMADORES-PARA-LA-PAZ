@@ -1,0 +1,16 @@
+¿Qué evento activa el flujo?
+
+El flujo se activa mediante un Webhook (o un disparador programado/cron).
+Por ejemplo, cuando un usuario envía un comando específico como /reporte al bot de Telegram,
+o cuando ocurre un evento externo (como una nueva fila en una hoja de cálculo) que n8n detecta.
+
+¿Qué mensaje se enviaría a Telegram?
+
+Se enviaría un mensaje de texto confirmando la acción o entregando información procesada.
+Por ejemplo: "Reporte generado con éxito. Total de ventas hoy: $500 o Nueva tarea asignada: Revisar inventario".
+
+¿Qué información no debería enviarse por seguridad?
+
+Nunca se deben enviar contraseñas, tokens de API, claves privadas, datos de tarjetas de crédito o información personal identificable
+(PII) sensible. Estos datos deben mantenerse seguros dentro de las credenciales de n8n y nunca exponerse en los mensajes del chat.
+
