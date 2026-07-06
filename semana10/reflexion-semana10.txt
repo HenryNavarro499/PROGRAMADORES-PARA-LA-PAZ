@@ -1,0 +1,7 @@
+Las metodologías ágiles permiten a las comunidades adaptarse rápidamente a los cambios, priorizando tareas según
+la urgencia real de los ciudadanos en lugar de seguir planes rígidos.
+Al combinar esto con la automatización mediante herramientas como n8n, se eliminan trámites burocráticos lentos
+y repetitivos, liberando tiempo valioso para el diálogo humano.
+Canales como Telegram actúan como puentes inmediatos, facilitando una comunicación bidireccional
+transparente y accesible para todos.Esta integración tecnológica asegura que la participación ciudadana no sea solo un evento esporádico, sino un proceso continuo y eficiente.  Así, se logra responder a las necesidades sociales con mayor velocidad, precisión y confianza,
+fortaleciendo el tejido democrático local.

@@ -1,0 +1,37 @@
+1. Como ciudadano quiero recibir confirmación de que mi reporte fue registrado,
+para tener confianza en que mi denuncia está siendo atendida.
+
+
+2. Como coordinador quiero visualizar un tablero con el estado de cada incidencia,
+para dar seguimiento rápido y asignar responsables.
+
+
+3. Como miembro de la comunidad quiero acceder a un mapa de incidencias,
+para identificar las zonas con mayor número de problemas.
+
+
+4. Como auditor quiero exportar los reportes a un documento seguro,
+para analizarlos y compartirlos con las autoridades competentes.
+
+
+
+
+5. Como voluntario quiero recibir recordatorios de tareas pendientes,
+para cumplir con los compromisos de seguimiento comunitario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+backlog-semana10

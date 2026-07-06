@@ -1,0 +1,26 @@
+Las 2 tareas del backlog que haría primero serían la configuración inicial de la base de datos y el desarrollo del inicio de sesión
+(login) para los usuarios.
+
+Son las más importantes porque construyen los cimientos del proyecto. Sin la base de datos no se puede guardar información,
+y sin el login los usuarios no pueden acceder de forma segura al sistema. Resolver esto al inicio elimina el mayor riesgo técnico
+y permite avanzar con el resto.
+
+Para mí, que una tarea esté "terminada" significa que está completamente lista para ser usada, cumple su propósito
+y no requiere que nadie más del equipo le dedique tiempo extra para corregirla o ajustarla.
+
+Definición simple de terminado:
+
+El código cumple exactamente con lo que se pidió.
+Fue probada para asegurar que funciona y no daña nada más.
+Quedó subida y aprobada en el repositorio del proyecto (Git).
+
+
+
+
+
+
+
+
+
+
+
