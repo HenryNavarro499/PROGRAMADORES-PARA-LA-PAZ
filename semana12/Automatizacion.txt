@@ -1,0 +1,19 @@
+
+
+- Herramienta utilizada: Telegram (vía Webhook / Bot)
+
+- Evento que activa la automatización:
+  El sistema detecta que una causa activa ha alcanzado con éxito el 100% 
+  de su meta de apoyos ciudadanos requeridos.
+
+- Mensaje que se envía:
+  ¡Meta alcanzada! La causa titulada '[Título de la Causa]' ha 
+  reunido todos los apoyos necesarios. El documento PDF formal ha sido 
+  generado automáticamente y está listo para su descarga y presentación."
+
+- Información que NO debe enviarse por seguridad:
+  No se debe enviar bajo ninguna circunstancia el listado de nombres de los 
+  firmantes, identificaciones (cédulas), correos electrónicos, números 
+  telefónicos ni datos de contacto de los ciudadanos que apoyaron la iniciativa. 
+  Esta información confidencial debe permanecer protegida en la base de datos 
+  y verse reflejada únicamente dentro del PDF oficial.

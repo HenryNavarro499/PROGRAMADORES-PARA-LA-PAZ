@@ -1,0 +1,29 @@
+
+--- ENTIDAD 1: Causa ---
+
+Atributos:
+- id: Identificador único de la causa (Clave Primaria).
+- titulo: Nombre o título corto de la causa ciudadana.
+- descripcion: Detalle de los motivos y objetivos de la petición.
+- fecha: Día y hora en que se creó la causa.
+
+¿Para qué sirve?
+Esta entidad funciona como el núcleo del sistema. Sirve para almacenar y organizar 
+toda la información de las diferentes iniciativas ciudadanas que se proponen en la 
+plataforma, permitiendo que queden registradas individualmente con un ID único para 
+que puedan ser consultadas y compartidas.
+
+
+--- ENTIDAD 2: Apoyo ---
+
+Atributos:
+- id: Identificador único del registro de apoyo (Clave Primaria).
+- causa_id: Identificador de la causa a la que se asocia el apoyo (Clave Foránea).
+- nombre: Nombre del ciudadano que apoya la causa (minimizando datos personales).
+- fecha: Día y hora en que se registró el apoyo.
+
+¿Para qué sirve?
+Esta entidad sirve para registrar de manera individual la firma o respaldo de un 
+ciudadano hacia una iniciativa en específico. Al conectarse con la entidad 'Causa' 
+a través del atributo 'causa_id', permite contabilizar los apoyos totales de cada causa 
+y recopilar de forma segura el listado necesario para generar el documento PDF final.
